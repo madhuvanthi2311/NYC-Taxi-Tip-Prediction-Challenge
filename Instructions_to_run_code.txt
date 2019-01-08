@@ -1,0 +1,13 @@
+Instructions to run code:
+
+1. Please place the input dataset in the Jupyter working directory to enable Pandas to import the data.
+
+2. Please import all the libraries mentioned in the beginning of the code. I've used Seaborn to plot the graphs. I have also used Shapely
+   to figure out which trips are to/from airports.
+   
+3. Cell > Run All runs the entire Jupyter notebook. Shift+Enter runs individual cells
+
+4. These are the instructions to download Seaborn and Shapely:
+
+(i) Seaborn: https://seaborn.pydata.org/installing.html
+(ii)Shapely: https://pypi.python.org/pypi/Shapely
